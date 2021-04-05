@@ -15,8 +15,9 @@ It's also just kinda fun
 
 1. git clone this repository by running the command `git clone https://github.com/ThePotato10/node-watch.git`
 2. Install the latest version of nodejs, if you don't already have it, by following the instructions [here](https://nodejs.dev/learn/how-to-install-nodejs)
-3. Run NodeWatch by typing the command `node [your-install-location]/node-watch/src/app.js` in the directory you want to scan
-4. Additionally, you can alias the above command if you want
+3. run the command `npm install` in the node-watch folder
+4. Run NodeWatch by typing the command `node [your-install-location]/node-watch/src/app.js` in the directory you want to scan
+5. Additionally, you can alias the above command if you want
 
 ## Contributing
 
